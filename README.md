@@ -4,13 +4,13 @@
 Pressure from work, studies, and relationships leaves us lonely. Yet the same AI we use for daily tasks feels awkward for heartfelt talks—we hold back. SoulMate AI changes that. It runs fully offline on your device. Zero cloud, zero uploads, zero tracking. Your secrets stay yours forever. It remembers what you share, responds with care, and serves one purpose: to be your private emotional haven. Open up freely, without fear, without the outside world.
 
 
-♥♥Introduction♥♥
+                                                      ♥♥  Introduction  ♥♥
 
 SoulMate AI is a fully offline, privacy-first AI companion that runs on your own computer. It uses Ollama to run a local LLM (qwen2:1.5b) and stores all data locally. No API keys, no cloud, no tracking.
 
 
 
-♥♥Requirements♥♥
+                                                      ♥♥  Requirements  ♥♥
 
 \- \[Ollama](https://ollama.com) installed
 
@@ -18,7 +18,7 @@ SoulMate AI is a fully offline, privacy-first AI companion that runs on your own
 
 
 
-♥♥How to Run♥♥
+                                                      ♥♥   How to Run   ♥♥
 
 1\. Clone this repository or download `Main.java`
 
@@ -36,14 +36,14 @@ SoulMate AI is a fully offline, privacy-first AI companion that runs on your own
 
 
 
-♥♥Commands♥♥
+                                                       ♥♥    Commands    ♥♥
 
 \- `exit` - quit the program
 
 \- `restart` - reset all settings and clear memory (auto-restart)
 
 
-♥♥Notes♥♥
+                                                        ♥♥     Notes     ♥♥
 
 \- The AI responds in the same language you use (Chinese or English)
 
