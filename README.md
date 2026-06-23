@@ -1,6 +1,5 @@
-                                                                                        ♥♥SoualMateAI1.0 ♥♥
-
-                                                                            ——A local AI companion powered by Ollama and Java.
+                                                         ♥♥SoualMateAI1.0
+                                      ——A local AI companion powered by Ollama and Java.
 
 Pressure from work, studies, and relationships leaves us lonely. Yet the same AI we use for daily tasks feels awkward for heartfelt talks—we hold back. SoulMate AI changes that. It runs fully offline on your device. Zero cloud, zero uploads, zero tracking. Your secrets stay yours forever. It remembers what you share, responds with care, and serves one purpose: to be your private emotional haven. Open up freely, without fear, without the outside world.
 
